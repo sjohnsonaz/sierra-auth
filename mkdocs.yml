@@ -1,0 +1,7 @@
+site_name: Sierra Auth
+site_url: https://sjohnsonaz.github.io/sierra-auth
+repo_url: https://github.com/sjohnsonaz/sierra-auth
+copyright: Copyright &copy; 2017 Sean Johnson
+pages:
+    - Home: index.md
+theme: readthedocs
